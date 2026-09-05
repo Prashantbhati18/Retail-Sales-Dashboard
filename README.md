@@ -10,7 +10,7 @@ The dashboard helps analyze sales performance across different business dimensio
 
 * #### **Dashboard Preview**
 
-!\[Dashboard](https://github.com/Prashantbhati18/Retail-Sales-Dashboard/blob/main/Dashboard%20Screenshot/dashboard.png))
+!\[Dashboard](https://github.com/Prashantbhati18/Retail-Sales-Dashboard/blob/main/Dashboard%20Screenshot/dashboard.png)
 
 
 
